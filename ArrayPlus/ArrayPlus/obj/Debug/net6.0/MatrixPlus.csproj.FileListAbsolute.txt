@@ -1,0 +1,15 @@
+E:\DataStructure\ArrayPlus\ArrayPlus\bin\Debug\net6.0\MatrixPlus.exe
+E:\DataStructure\ArrayPlus\ArrayPlus\bin\Debug\net6.0\MatrixPlus.deps.json
+E:\DataStructure\ArrayPlus\ArrayPlus\bin\Debug\net6.0\MatrixPlus.runtimeconfig.json
+E:\DataStructure\ArrayPlus\ArrayPlus\bin\Debug\net6.0\MatrixPlus.dll
+E:\DataStructure\ArrayPlus\ArrayPlus\bin\Debug\net6.0\MatrixPlus.pdb
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\MatrixPlus.csproj.AssemblyReference.cache
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\MatrixPlus.GeneratedMSBuildEditorConfig.editorconfig
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\MatrixPlus.AssemblyInfoInputs.cache
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\MatrixPlus.AssemblyInfo.cs
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\MatrixPlus.csproj.CoreCompileInputs.cache
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\MatrixPlus.dll
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\refint\MatrixPlus.dll
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\MatrixPlus.pdb
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\MatrixPlus.genruntimeconfig.cache
+E:\DataStructure\ArrayPlus\ArrayPlus\obj\Debug\net6.0\ref\MatrixPlus.dll
